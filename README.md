@@ -1,5 +1,7 @@
 **Building and Improving Neural Network Classification Models**
 
+BLOGPOST: https://caelonsmith.medium.com/building-and-improving-an-artificial-neural-network-made-simple-16a669657bc4
+
 **Dataset**: Quick Draw
 
 **Packages**: TensorFlow, Keras
