@@ -2,7 +2,10 @@
 
 Medium Article: https://caelonsmith.medium.com/building-and-improving-an-artificial-neural-network-made-simple-16a669657bc4
 
-**Dataset**: Quick Draw
+**Dataset**: 
+- Title: Quick Draw
+- Source: https://github.com/googlecreativelab/quickdraw-dataset
+- Observations Used in Model: 100,000
 
 **Primary Packages Used**: 
 - TensorFlow
