@@ -1,6 +1,7 @@
 **Building and Improving Neural Network Classification Models**
 
 **Dataset**: Quick Draw
+
 **Packages**: TensorFlow, Keras
 
 **Key Areas:**
