@@ -13,16 +13,16 @@
 - Deploying and Unit Testing a Neural Network Model
 
 **Tuning Hyperparameters: Approaches**
-- Grid Search                               CODE COVERED
-- Random Search                             CODE COVERED
-- Bayesian Method                           CODE COVERED
+- Grid Search                               
+- Random Search                             
+- Bayesian Method                           
   
 **Primary Hyperparameters**
-- batch_size                                CODE COVERED
-- optimization algorithms                   CODE COVERED
-- learning rate                             CODE COVERED
-- activation functions (momentum)           CODE COVERED
+- batch_size                                
+- optimization algorithms                   
+- learning rate                             
+- activation functions (momentum)           
 - Regularization
   - Dropout
   - Early Stop (epochs)
-- number of neurons in the hidden layer     CODE COVERED
+- number of neurons in the hidden layer     
