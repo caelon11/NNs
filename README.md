@@ -4,7 +4,14 @@ Medium Article: https://caelonsmith.medium.com/building-and-improving-an-artific
 
 **Dataset**: Quick Draw
 
-**Packages**: TensorFlow, Keras
+**Primary Packages Used**: 
+- TensorFlow
+- Keras
+- Sklearn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 **Key Areas:**
 - Architecture of a neural network model
